@@ -50,4 +50,6 @@ At this point your environment should be functional and ready to go!
 
 - When the first process, described in the previous step, ends then a second process will stack cronologically all the images produced, generating a GIFF file.
 
+<div style="text-align: center"><img src="SRC/GIFF/analysed_sst_5fps.gif" width="300" /></div>
+
 ##### **Many thanks to visit this page**
