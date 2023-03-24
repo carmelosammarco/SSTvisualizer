@@ -20,7 +20,7 @@ At this point your environment should be functional and ready to go!
 
 ## How the folder is structured:
 
-## Go inside the "SRC" folder and the impotant thing to know are:
+- **SRC** folder that has inside all the files below (in a funtional programming point of view it can be considered the root folder)
 
 - **TEST-DATA** folder that contains the starting NetCDF file to be processed
 
